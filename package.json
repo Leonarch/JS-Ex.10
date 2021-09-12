@@ -1,0 +1,11 @@
+{
+  "name": "java-exercise-10",
+  "version": "1.0.0",
+  "description": "Implementare, tramite blocchi condizionali e cicli, la funzione `sumUntil`, la quale, dato in input un valore, effettua la somma di tutti i numeri che vanno da `1` fino al valore passato come parametro",
+  "main": "exercise-7.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
