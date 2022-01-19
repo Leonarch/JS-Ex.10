@@ -7,5 +7,6 @@ function sumUntil(maxValue) {
  return totalSum;
 }
 
+
 console.log(sumUntil(5));
 
